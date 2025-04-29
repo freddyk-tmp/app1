@@ -14,8 +14,6 @@ Param(
     [switch] $clean
 )
 
-# My small edit!
-
 $errorActionPreference = "Stop"; $ProgressPreference = "SilentlyContinue"; Set-StrictMode -Version 2.0
 
 function DownloadHelperFile {
