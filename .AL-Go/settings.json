@@ -1,6 +1,6 @@
 {
   "country": "us",
-  "appFolders": [ "APP" ],
+  "appFolders": [ ],
   "testFolders": [],
   "bcptTestFolders": [],
   "repoVersion": "1.1"
